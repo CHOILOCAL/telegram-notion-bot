@@ -104,3 +104,4 @@ https://api.telegram.org/bot{TELEGRAM_TOKEN}/setWebhook?url=https://your-bot.onr
 - Render 무료 티어: 비활성 시 sleep → 첫 메시지 응답 30초 소요될 수 있음
   - 해결: Render의 "Health Check" 설정 또는 UptimeRobot으로 주기적 ping
 - `.env` 파일은 절대 GitHub에 올리지 말 것 (.gitignore에 추가)
+# telegram-notion-bot
